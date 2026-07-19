@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "skaupat": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/server/index.cjs"],
+      "env": {
+        "SKAUPAT_DEFAULT_STORE_ID": ""
+      }
+    }
+  }
+}

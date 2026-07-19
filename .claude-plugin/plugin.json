@@ -1,0 +1,16 @@
+{
+  "name": "skaupat-hinnat",
+  "version": "0.8.0",
+  "description": "Hakee S-kaupat-tuotteiden reaaliaikaiset hinnat valitusta kaupasta (esim. Raksilan Prisma) ja kokoaa reseptin raaka-aineista ostoslistan yhteishintoineen.",
+  "author": {
+    "name": "Alex Palosaari"
+  },
+  "keywords": [
+    "s-kaupat",
+    "ostoslista",
+    "hinnat",
+    "resepti",
+    "prisma"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "skaupat-hinnat",
+  "owner": {
+    "name": "Alex Palosaari"
+  },
+  "plugins": [
+    {
+      "name": "skaupat-hinnat",
+      "source": "./",
+      "description": "Hakee S-kaupat-tuotteiden reaaliaikaiset hinnat valitusta kaupasta ja kokoaa reseptin raaka-aineista ostoslistan yhteishintoineen.",
+      "version": "0.8.0",
+      "keywords": ["s-kaupat", "ostoslista", "hinnat", "resepti", "prisma"]
+    }
+  ]
+}

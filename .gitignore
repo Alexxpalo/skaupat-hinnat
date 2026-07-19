@@ -1,0 +1,15 @@
+node_modules/
+*.log
+.DS_Store
+ostoslista_*.md
+
+# Reverse engineering -materiaali: paikallista, EI julkiseen repoon
+# (poistettu historiasta; estä vahinkolisäys takaisin)
+reverse/
+
+# Paikallinen Claude Code -sessiokonfiguraatio (konekohtaisia polkuja)
+.claude/
+
+# Kehityksen sisäiset muistiinpanot: pidetään paikallisesti, ei julkiseen repoon
+CLAUDE.md
+TODO.md
